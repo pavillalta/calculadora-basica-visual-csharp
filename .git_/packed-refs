@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+defd26fd3137ac70e750f2851880afedbb280ef9 refs/remotes/origin/CalculadoraCientifica
+050e677ff19074e55221ecd00521153ba1eec7ec refs/remotes/origin/RamaIgual
+df03c0665bafebae100a22abcf8ae269989fde82 refs/remotes/origin/master
+6e94ea06c709da871e97ae1dfa73b52aa49b57fd refs/remotes/origin/opciondeayuda
